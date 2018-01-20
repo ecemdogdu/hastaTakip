@@ -1,0 +1,10 @@
+C:\Users\ecem.dogdu\source\repos\hastaTakip\hastaTakip\bin\Debug\hastaTakip.exe.config
+C:\Users\ecem.dogdu\source\repos\hastaTakip\hastaTakip\bin\Debug\hastaTakip.exe
+C:\Users\ecem.dogdu\source\repos\hastaTakip\hastaTakip\bin\Debug\hastaTakip.pdb
+C:\Users\ecem.dogdu\source\repos\hastaTakip\hastaTakip\obj\Debug\hastaTakip.csprojResolveAssemblyReference.cache
+C:\Users\ecem.dogdu\source\repos\hastaTakip\hastaTakip\obj\Debug\hastaTakip.Form1.resources
+C:\Users\ecem.dogdu\source\repos\hastaTakip\hastaTakip\obj\Debug\hastaTakip.Properties.Resources.resources
+C:\Users\ecem.dogdu\source\repos\hastaTakip\hastaTakip\obj\Debug\hastaTakip.csproj.GenerateResource.Cache
+C:\Users\ecem.dogdu\source\repos\hastaTakip\hastaTakip\obj\Debug\hastaTakip.csproj.CoreCompileInputs.cache
+C:\Users\ecem.dogdu\source\repos\hastaTakip\hastaTakip\obj\Debug\hastaTakip.exe
+C:\Users\ecem.dogdu\source\repos\hastaTakip\hastaTakip\obj\Debug\hastaTakip.pdb
