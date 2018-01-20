@@ -19,12 +19,13 @@ namespace hastaTakip
 
         private void btnEkle_Click(object sender, EventArgs e)
         {
-         DateTime dogumTarihi =  dateDogumTarihi.Value;// datetime :
+         DateTime dogumTarihi =  dateDogumTarihi.Value;
+            
             Hasta hasta = new Hasta();
 
             hasta.Adi = txtAdSoyad.Text;
             hasta.Ucret = Convert.ToInt32(txtUcret.Text);
-            hasta.DogumYili = Convert.ToInt32(54);
+            hasta.DogumYili = dogumTarihi.Year;
             hasta.Cinsiyet = comboBox1.Text;
             hasta.YasHesapla();
             hasta.İndirimliUcretHesapla();

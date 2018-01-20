@@ -17,7 +17,8 @@ namespace hastaTakip
 
      public   void YasHesapla()
         {
-            Yas = 2018 - DogumYili;
+            Yas = DateTime.Now.Year - DogumYili;
+        
         }
         public void İndirimliUcretHesapla()
         {

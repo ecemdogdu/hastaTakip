@@ -79,14 +79,14 @@
             // 
             // txtAdSoyad
             // 
-            this.txtAdSoyad.Location = new System.Drawing.Point(56, 13);
+            this.txtAdSoyad.Location = new System.Drawing.Point(60, 13);
             this.txtAdSoyad.Name = "txtAdSoyad";
             this.txtAdSoyad.Size = new System.Drawing.Size(100, 20);
             this.txtAdSoyad.TabIndex = 3;
             // 
             // txtUcret
             // 
-            this.txtUcret.Location = new System.Drawing.Point(56, 69);
+            this.txtUcret.Location = new System.Drawing.Point(60, 66);
             this.txtUcret.Name = "txtUcret";
             this.txtUcret.Size = new System.Drawing.Size(100, 20);
             this.txtUcret.TabIndex = 4;
@@ -193,9 +193,10 @@
             // 
             // dateDogumTarihi
             // 
-            this.dateDogumTarihi.Location = new System.Drawing.Point(68, 41);
+            this.dateDogumTarihi.Format = System.Windows.Forms.DateTimePickerFormat.Short;
+            this.dateDogumTarihi.Location = new System.Drawing.Point(60, 41);
             this.dateDogumTarihi.Name = "dateDogumTarihi";
-            this.dateDogumTarihi.Size = new System.Drawing.Size(200, 20);
+            this.dateDogumTarihi.Size = new System.Drawing.Size(100, 20);
             this.dateDogumTarihi.TabIndex = 12;
             // 
             // Form1
